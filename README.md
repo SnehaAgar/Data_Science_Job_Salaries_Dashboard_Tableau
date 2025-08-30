@@ -85,4 +85,4 @@ The dataset includes job market information for **data science-related roles**, 
 ---
 
 ## 🖼 Screenshot
-![Data Science Jobs Dashboard_(Link to preview)]: https://github.com/SnehaAgar/Data_Science_Job_Salaries_Dashboard_Tableau/blob/main/Snapshot_Of_Dashboard_Data_Science_Job_Salaries.png 
+Data Science Jobs Dashboard_(Link to preview): https://github.com/SnehaAgar/Data_Science_Job_Salaries_Dashboard_Tableau/blob/main/Snapshot_Of_Dashboard_Data_Science_Job_Salaries.png 
