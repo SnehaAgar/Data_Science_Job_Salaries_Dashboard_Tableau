@@ -3,19 +3,6 @@
 An interactive **Tableau dashboard** designed to analyze the **global data science job market**.  
 The dashboard provides insights into salaries, employment types, company sizes, experience levels, and workforce distribution across countries, helping professionals and organizations understand trends in the data science industry.
 
----
-
-## 📑 Table of Contents
-- [Purpose](#purpose)  
-- [Tech Stack](#tech-stack)  
-- [Dataset](#dataset)  
-- [Features](#features)  
-- [Key Visuals](#key-visuals)  
-- [Business Impact & Insights](#business-impact--insights)  
-- [Getting Started](#getting-started)  
-- [How to Use the Dashboard](#how-to-use-the-dashboard)  
-- [File Formats](#file-formats)  
-- [Screenshot](#screenshot)  
 
 ---
 
